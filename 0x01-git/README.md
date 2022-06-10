@@ -1,0 +1,1 @@
+This file about creating 0x01-git folder for Repo-session project
